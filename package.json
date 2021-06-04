@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "serum-ts-pipdex",
+  "version": "1.0.0",
   "keywords": [],
   "workspaces": {
     "packages": [
